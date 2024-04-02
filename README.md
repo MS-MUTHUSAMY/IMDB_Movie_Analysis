@@ -15,16 +15,18 @@
 
 # Data Analytics Tasks
 
-$ A. Movie Genre Analysis
+## A. Movie Genre Analysis
 Analyze the distribution of movie genres and their impact on IMDb scores.
-Task:
-Determine the most common genres in the dataset.
-Calculate descriptive statistics (mean, median, mode, range, variance, standard deviation) of IMDb scores for each genre.
-B. Movie Duration Analysis
+### Task:
+* Determine the most common genres in the dataset.
+* Calculate descriptive statistics (mean, median, mode, range, variance, standard deviation) of IMDb scores for each genre.
+  
+## B. Movie Duration Analysis
 Analyze the distribution of movie durations and its impact on IMDb scores.
-Task:
-Explore the distribution of movie durations.
-Identify the relationship between movie duration and IMDb scores.
+### Task:
+* Explore the distribution of movie durations.
+* Identify the relationship between movie duration and IMDb scores.
+  
 C. Language Analysis
 Examine the distribution of movies based on their language.
 Task:
