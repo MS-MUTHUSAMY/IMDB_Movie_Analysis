@@ -15,7 +15,7 @@
 
 # Data Analytics Tasks
 
-A. Movie Genre Analysis
+$ A. Movie Genre Analysis
 Analyze the distribution of movie genres and their impact on IMDb scores.
 Task:
 Determine the most common genres in the dataset.
