@@ -1,5 +1,6 @@
-IMDb Movie Analysis With Power BI
-Description
+# IMDb Movie Analysis With Power BI
+
+## Description
 This project involves analyzing IMDb movie data to understand the factors that influence the success of a movie on IMDb, focusing on high IMDb ratings. The analysis is aimed at movie producers, directors, and investors to make informed decisions for future projects.
 
 Problem Statement
