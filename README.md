@@ -44,27 +44,28 @@ Identify movies with the highest profit margins.
 
 # How to Use
 
-## Download the Dataset:
-IMDb Movies Dataset
+### Download the Dataset:
+    IMDb Movies Dataset
 
-## Setting Up Power BI:
-Install Power BI Desktop from Microsoft's Official Website
+### Setting Up Power BI:
+    Install Power BI Desktop from Microsoft's Official Website
 
-Open Power BI Desktop:
-Load the dataset into Power BI.
+### Open Power BI Desktop:
+    Load the dataset into Power BI.
 
-Explore the Dashboards:
-Open the provided Power BI dashboards to view the analysis for each task.
+### Explore the Dashboards:
+    Open the provided Power BI dashboards to view the analysis for each task.
 
-Interact with Visualizations:
-Filter, drill down, and explore the data using Power BI's interactive features.
+### Interact with Visualizations:
+    Filter, drill down, and explore the data using Power BI's interactive features.
 
-Generate Reports:
-Create detailed reports for each task, including findings, insights, and visualizations.
+### Generate Reports:
+    Create detailed reports for each task, including findings, insights, and visualizations.
 
-Additional Notes
-The project aims to provide actionable insights for stakeholders in the movie industry.
-Use the provided dataset link to download the IMDb movie data for analysis.
-Ensure to include the dashboards in the final report for a comprehensive overview.
-Credits
-Dataset Source: IMDb Movies Dataset
+## Additional Notes
+* The project aims to provide actionable insights for stakeholders in the movie industry.
+* Use the provided dataset link to download the IMDb movie data for analysis.
+* Ensure to include the dashboards in the final report for a comprehensive overview.
+    
+## Credits
+    Dataset Source: IMDb Movies Dataset
